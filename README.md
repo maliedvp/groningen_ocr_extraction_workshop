@@ -18,11 +18,11 @@ Welcome to the GitHub repository of the 2023 **Digitisation and OCR Workshop** f
 |      |       |           |
 |      |       |           |
 
-Please upload your presentations to the folder **presentations**.
+Please push your presentations to the folder [**presentations**](presentations/).
 
 ## Workshop Minutes <a name="minutes"></a>
 
-Please click on this Link to get to the workshop's summaries and key findings.
+Please click on this [Link](minutes.md) to get to the workshop's summaries and key findings.
 
 
 ## Collaboration Organization <a name="coll"></a>
@@ -33,6 +33,6 @@ This repository is intended to
 - host code snippets
 
 When a participants wants to link a repository or project, please add the link to this document.
-Code snippets can be stored in the folder **code_snippets** in this repository.
+Code snippets can be stored in the folder [**code_snippets**](code_snippets/) in this repository.
 
 
