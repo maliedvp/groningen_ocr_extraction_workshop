@@ -4,7 +4,7 @@
 
 Welcome to the GitHub repository of the 2023 **Digitisation and OCR Workshop** for Eurhisfirm community memembers. This repository serves to facilitate the communication among participants. It hosts the presentations, summarizes key takeaways and offers space for code exchange.
 
-Feel free to clone this repo and commit your contributions.
+Feel free to clone this repo and commit your contributions. If you have any troubble cloning or pushing to the directory, contact login at lilljegren dot com.
 
 ---
 
