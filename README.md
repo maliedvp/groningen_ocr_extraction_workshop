@@ -28,18 +28,39 @@ In this sense, the workshop will comprise a day of meetings, presentations, and 
 ### Schedule <a name="schedule"></a>
 The workshop is held in two sessions during the whole day of May 4th in Groningen (NL).
 
-| Time | Topic | Presenter |
-|------|-------|-----------|
-|08:30 - 09:30 |       |           |
-|      |       |           |
-|      |       |           |
+The initial room is **OBS 34.002** in the historic center of the city.
 
-Please push your presentations to the folder [**presentations**](presentations/).
+The following schedule is most **preliminary**. Time-slots are uneven. Please back to Marius for any adjustments.
+
+| Time                                               | Topic                                                        | Presenter                                            |
+| -------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| <nobr><time>9:00</time>–<time>9:45</time></nobr>   | The German Production Pipeline: Mannheim - OCR & Knowledge Graphs | Jan Kamlah & Renat Shigapov                          |
+| <nobr><time>9:50</time>–<time>10:35</time></nobr>  | The German Production Pipeline: Frankfurt - Data Model, Re-Structuring & Linking | Marius Liebald, Pantelis Karapanagiotis, Dennis Gram |
+| <nobr><time>10:35</time>–<time>10:50</time></nobr> | Coffee break                                                 |                                                      |
+| <nobr><time>10:50</time>–<time>11:25</time></nobr> | The LITIS end-to-end document understanding pipeline         | Thierry Paquet                                       |
+| <nobr><time>11:30</time>–<time>12:00</time></nobr> | The NedHisFirm project and its Zir-software in the hands of student assistants. | Josef Lilljegren                                     |
+| <nobr><time>12:00</time>–<time>13:30</time></nobr> | Lunch                                                        |                                                      |
+| <nobr><time>13:30</time>–<time>14:15</time></nobr> | The IRISA system for interactive analysis of document collections | Bertrand Couasnon                                    |
+| <nobr><time>14:20</time>–<time>14:30</time></nobr> | Transition to discussion. We decide the topics together from the list below. |                                                      |
+| <nobr><time>14:30</time>–<time>15:00</time></nobr> | Discussion session I                                         |                                                      |
+| <nobr><time>15:00</time>–<time>15:20</time></nobr> | Coffee break                                                 |                                                      |
+| <nobr><time>15:20</time>–<time>17:00</time></nobr> | Disucsison session II                                        |                                                      |
+
+### Topics for discussion sessions:
+The discussion session will be woven around specific topics, each with a 3 min quick introduction. After the presentations we decide together the schedule of topics to deal with during the afternoon.
+
+_Please add your own topic suggestions here or in the [google document](https://docs.google.com/spreadsheets/d/1bidTvVY3XdDNXAkWQzAg9oB9x_j4gMSQbHp0a5PzAKE/edit#gid=736491828)_
+
+ - Advances on table recognition and parsing
+ - Tradeoff between layout-based establishment of structure contra post-processing of ocr:ed data.
+ - Demands for European database compatability (storage of extracted data)
+ - Company identification and matching
+ - Classification of balance sheet items
 
 
 ## Workshop Minutes <a name="minutes"></a>
 
-Please click on this [Link](minutes.md) to get to the workshop's summaries and key findings.
+We'll be taking discussion notes and store them in [Link](minutes.md) where we can check back on notes and key findings after the workshop.
 
 
 
