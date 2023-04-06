@@ -28,14 +28,14 @@ In this sense, the workshop will comprise a day of meetings, presentations, and 
 ### Schedule <a name="schedule"></a>
 The workshop is held in two sessions during the whole day of May 4th in Groningen (NL).
 
-The initial room is **OBS 34.002** in the historic center of the city.
+The initial room is **OBS 34.002** of the Harmony Building (Harmoniegebouw) located the in the historic center of the city.
 
 The following schedule is most **preliminary**. Time-slots are uneven. Please back to Marius for any adjustments.
 
 | Time                                               | Topic                                                        | Presenter                                            |
 | -------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
 | <nobr><time>9:00</time>–<time>9:45</time></nobr>   | The German Production Pipeline: Mannheim - OCR & Knowledge Graphs | Jan Kamlah & Renat Shigapov                          |
-| <nobr><time>9:50</time>–<time>10:35</time></nobr>  | The German Production Pipeline: Frankfurt - Data Model, Re-Structuring & Linking | Marius Liebald, Pantelis Karapanagiotis, Dennis Gram |
+| <nobr><time>9:50</time>–<time>10:35</time></nobr>  | The German Production Pipeline: Frankfurt - Data Model, Re-Structuring & Linking | Dennis Gram, Pantelis Karapanagiotis, Marius Liebald |
 | <nobr><time>10:35</time>–<time>10:50</time></nobr> | Coffee break                                                 |                                                      |
 | <nobr><time>10:50</time>–<time>11:25</time></nobr> | The LITIS end-to-end document understanding pipeline         | Thierry Paquet                                       |
 | <nobr><time>11:30</time>–<time>12:00</time></nobr> | The NedHisFirm project and its Zir-software in the hands of student assistants. | Josef Lilljegren                                     |
@@ -60,7 +60,7 @@ _Please add your own topic suggestions here or in the [google document](https://
 
 ## Workshop Minutes <a name="minutes"></a>
 
-We'll be taking discussion notes and store them in [Link](minutes.md) where we can check back on notes and key findings after the workshop.
+We'll be taking discussion notes and store them in this [file](minutes.md) where we can check back on notes and key findings after the workshop.
 
 
 
