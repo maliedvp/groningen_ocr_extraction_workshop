@@ -7,15 +7,15 @@ Welcome to the GitHub repository of the 2023 **Digitisation and OCR Workshop** f
 Feel free to clone this repo and commit your contributions. If you have any troubble cloning or pushing to the directory, contact login at lilljegren dot com.
 
 # Find your way:
-We meet in the **BS34 building**, on **[Oude Boteringestraat 34](https://www.google.com/maps/place/Faculty+of+Arts+(HOVO),+Oude+Boteringestraat+34,+9712+GK+Groningen/@53.2196244,6.5639676,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd501513b497:0xd6eb50257c80ebea!8m2!3d53.2196244!4d6.5639676!16s%2Fg%2F11b7q6r1g5)** in the historical centre to start at **9 a.m.**. The room is **OBS 34.002**.
+We meet in the **BS34 building**, on **[Oude Boteringestraat 34](https://www.google.com/maps/place/Faculty+of+Arts+(HOVO),+Oude+Boteringestraat+34,+9712+GK+Groningen/@53.2196244,6.5639676,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd501513b497:0xd6eb50257c80ebea!8m2!3d53.2196244!4d6.5639676!16s%2Fg%2F11b7q6r1g5)** in the historical centre to start at **9 a.m.**. The room is **OBS 34.002** (first on your left when entering the building).
 
 <img src="img/directions.jpg" alt="Directions" style="width: 100%; border: 0px;" />
 
 *Location and visual of the door to Oude Boteringestraat 34 above*
 
 ### Online rooms:
- - **Morning session:** [meet.google.com/cmz-skaa-djq ](meet.google.com/cmz-skaa-djq)
- - **Afternoon session:** [meet.google.com/agm-mxwf-rbp](meet.google.com/agm-mxwf-rbp)
+ - **Morning session:** [meet.google.com/cmz-skaa-djq ](meet.google.com/cmz-skaa-djq) (physically in room **OBS 34.002**)
+ - **Afternoon session:** [meet.google.com/agm-mxwf-rbp](meet.google.com/agm-mxwf-rbp) (physically in room **OBS 34.112**)
 
 ## A beer for the evening before:
 Today, May 3rd, you may also join at **9 p.m.** for a beer. On the [stairs of the main building](https://www.google.com/maps/place/University+of+Groningen/@53.2192631,6.5633882,18z/data=!4m15!1m8!3m7!1s0x47c9cd501513b497:0xd6eb50257c80ebea!2sFaculty+of+Arts+(HOVO),+Oude+Boteringestraat+34,+9712+GK+Groningen!3b1!8m2!3d53.2196244!4d6.5639676!16s%2Fg%2F11b7q6r1g5!3m5!1s0x47c9cd4fddb49c0b:0xb28816a947e2c4f3!8m2!3d53.2192634!4d6.5629872!16zL20vMDFsdnJt) on **Broerstraat**.
