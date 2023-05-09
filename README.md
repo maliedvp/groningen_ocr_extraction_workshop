@@ -2,40 +2,48 @@
 
 <img src="img/wordcloud_banner.svg" alt="Wordcloud" style="width: 100%; border: 0px;" />
 
-Thank you for the participation in the 2023 **Digitisation and OCR Workshop** in Groningen.
+Welcome to the GitHub repository of the 2023 **Digitisation and OCR Workshop** for Eurhisfirm community memembers. This repository serves to facilitate the communication among participants. It hosts the presentations, summarizes key takeaways and offers space for code exchange.
 
-This GitHub repository hosts the presentations and summarizes key takeaways.
+Feel free to clone this repo and commit your contributions. If you have any troubble cloning or pushing to the directory, contact login at lilljegren dot com.
 
-Feel free to clone this repo and commit your contributions. If you have any troubble cloning or pushing to the directory, contact josef: josef dot lilljegren at rug dot nl.
+# Find your way:
+We meet in the **BS34 building**, on **[Oude Boteringestraat 34](https://www.google.com/maps/place/Faculty+of+Arts+(HOVO),+Oude+Boteringestraat+34,+9712+GK+Groningen/@53.2196244,6.5639676,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd501513b497:0xd6eb50257c80ebea!8m2!3d53.2196244!4d6.5639676!16s%2Fg%2F11b7q6r1g5)** in the historical centre to start at **9 a.m.**. The room is **OBS 34.002** (first on your left when entering the building).
+
+<img src="img/directions.jpg" alt="Directions" style="width: 100%; border: 0px;" />
+
+*Location and visual of the door to Oude Boteringestraat 34 above*
+
+### Online rooms:
+ - **Morning session:** [meet.google.com/cmz-skaa-djq ](meet.google.com/cmz-skaa-djq) (physically in room **OBS 34.002**)
+ - **Afternoon session:** [meet.google.com/agm-mxwf-rbp](meet.google.com/agm-mxwf-rbp) (physically in room **OBS 34.112**)
+
+## A beer for the evening before:
+Today, May 3rd, you may also join at **9 p.m.** for a beer. On the [stairs of the main building](https://www.google.com/maps/place/University+of+Groningen/@53.2192631,6.5633882,18z/data=!4m15!1m8!3m7!1s0x47c9cd501513b497:0xd6eb50257c80ebea!2sFaculty+of+Arts+(HOVO),+Oude+Boteringestraat+34,+9712+GK+Groningen!3b1!8m2!3d53.2196244!4d6.5639676!16s%2Fg%2F11b7q6r1g5!3m5!1s0x47c9cd4fddb49c0b:0xb28816a947e2c4f3!8m2!3d53.2192634!4d6.5629872!16zL20vMDFsdnJt) on **Broerstraat**.
+
 
 ---
 
 ## Table of Contents
 
 1. [Workshop Program](#program)
-   - [Presentations](#presentations)
    - [Schedule](#schedule)
 2. [Workshop Minutes](#minutes)
 3. [Collaboration Organization](#coll)
 
 ---
 
-
 ## Workshop Program <a name="program"></a>
 
-The workshop aimed to bring together OCR technicians and software developers in digital humanities to discuss and share their experiences, challenges, and best practices in digitization. The event will provide a forum for experts to learn from one another, and collaborate on innovative solutions to common problems.
+The workshop aims to bring together OCR technicians and software developers in digital humanities to discuss and share their experiences, challenges, and best practices in digitization. The event will provide a forum for experts to learn from one another, and collaborate on innovative solutions to common problems.
  
-
-### Presentations <a name="schedule"></a>
- Refer to these presentations:
-
- - Paquet, Thierry - Rouen (<a href="presentations/paquet_presentation">presentation</a>)
-
+In this sense, the workshop will comprise a day of meetings, presentations, and discussions, with participants encouraged to share their experiences and insights. Topics to be covered might include the latest trends and best practices in OCR technology, strategies for improving accuracy, and ways to enhance workflows and automate tasks.
 
 ### Schedule <a name="schedule"></a>
-The workshop was held in two sessions during the whole day of May 4th in Groningen (NL).
+The workshop is held in two sessions during the whole day of May 4th in Groningen (NL).
 
-The following approximate schedule was followed.
+The room for the morning is **OBS 34.002** and for the afternoon it is **OBS34.112** both located on **[Oude Boteringestraat 34](https://www.google.com/maps/place/Faculty+of+Arts+(HOVO),+Oude+Boteringestraat+34,+9712+GK+Groningen/@53.2196244,6.5639676,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd501513b497:0xd6eb50257c80ebea!8m2!3d53.2196244!4d6.5639676!16s%2Fg%2F11b7q6r1g5)** located the in the historic center of the city.
+
+The following schedule is most **preliminary**. Time-slots are uneven. Please back to Marius for any adjustments.
 
 | Time                                               | Topic                                                        | Presenter                                            |
 | -------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
@@ -50,6 +58,17 @@ The following approximate schedule was followed.
 | <nobr><time>14:40</time>–<time>15:30</time></nobr> | Discussion session I                                         |                                                      |
 | <nobr><time>15:30</time>–<time>15:45</time></nobr> | Coffee break                                                 |                                                      |
 | <nobr><time>15:45</time>–<time>17:00</time></nobr> | Disucsison session II                                        |                                                      |
+
+### Topics for discussion sessions:
+The discussion session will be woven around specific topics, each with a 3 min quick introduction. After the presentations we decide together the schedule of topics to deal with during the afternoon.
+
+_Please add your own topic suggestions here or in the [google document](https://docs.google.com/spreadsheets/d/1bidTvVY3XdDNXAkWQzAg9oB9x_j4gMSQbHp0a5PzAKE/edit#gid=736491828)_
+
+ - Advances on table recognition and parsing
+ - Tradeoff between layout-based establishment of structure contra post-processing of ocr:ed data.
+ - Demands for European database compatability (storage of extracted data)
+ - Company identification and matching
+ - Classification of balance sheet items
 
 
 ## Workshop Minutes <a name="minutes"></a>
